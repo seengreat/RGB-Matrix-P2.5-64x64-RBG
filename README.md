@@ -1,4 +1,4 @@
-RGB-Matrix-P2.5-64x64 from seengreat:www.seengreat.com
+RGB-Matrix-P2.5-64x64-RBG from seengreat:www.seengreat.com
   ======================================
 # Instructions
 ## 1.1、verview
